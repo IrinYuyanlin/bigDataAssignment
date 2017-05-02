@@ -5,6 +5,7 @@
 0037&type=cinst61
 005-05-23
 007-08-03
+06-11
 1996-10-24
 1996-12-20
 1998-09-10
@@ -34,6 +35,8 @@
 ?orgname=东吴证券股份有限公司
 ate=1900-01-01
 ate=2005-06-29
+bsheet69
+cinst62
 d_date=2013-05-08
 e/4.phtml
 e=1&end_date=2012-06-15
@@ -684,6 +687,7 @@ http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/lhb/index.phtm
 http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/lhb/index.phtml?symbol=sz300628&bdate=2017-04-23&edate=2017-04-30
 http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/lhb/index.phtml?symbol=sz300639&bdate=2017-04-23&edate=2017-04-30
 http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/lhb/index.phtml?symbol=sz300641&bdate=2017-04-23&edate=2017-04-30
+http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/lhbstock/index.phtml?symbol=sz002419&bdate=2017-01-01&edate=2017-04-30
 http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/lsfh/index.phtml
 http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/nbjy/index.phtml
 http://vip.stock.finance.sina.com.cn/q/go.php/vInvestConsult/kind/qgqp/index.phtml
@@ -1028,6 +1032,7 @@ http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/366
 http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3674016/index.phtml
 http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3675331/index.phtml
 http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3675725/index.phtml
+http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3676240/index.phtml
 http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3681188/index.phtml
 http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3683250/index.phtml
 http://vip.stock.finance.sina.com.cn/q/go.php/vReport_Show/kind/search/rptid/3683390/index.phtml
